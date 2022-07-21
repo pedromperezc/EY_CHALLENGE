@@ -7,9 +7,9 @@ This repo contains my finalist resolutions of the data challenge proposed by EY.
 
 ## Notebooks:
 
-### [MODEL BUILDING NOTEBOOK ](notebooks/MODEL BUILDING NOTEBOOK.ipynb) 
+### [MODEL BUILDING NOTEBOOK ](notebooks/MODEL_BUILDING_NOTEBOOK.ipynb) 
 
-### [VALIDATION NOTEBOOK](notebooks/VALIDATION NOTEBOOK.ipynb) 
+### [VALIDATION NOTEBOOK](notebooks/VALIDATION_NOTEBOOK.ipynb) 
 
 ### Introductions:
 The planet has been going through enormous challenges. It's been facing problems of population increase, loss of ecosystems and biodiversity, soil degradation, and global pollution. But as these problems grow, tools based on artificial intelligence are being developed to delay the total depletion of these resources and counteract their effects. 
